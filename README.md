@@ -1,5 +1,5 @@
 
-# OverTheWire: Bandit — My Notes & Walkthrough
+# OverTheWire: Bandit - My Notes & Walkthrough
 
 This repository contains my personal notes from working through the **Bandit** wargame on [OverTheWire](https://overthewire.org/wargames/bandit/).
 
