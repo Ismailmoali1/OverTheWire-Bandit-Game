@@ -1,19 +1,20 @@
 
 # OverTheWire: Bandit — Notes (Levels 1–15)
 
-This repository contains my notes from the OverTheWire Bandit wargame.
-Each level includes a brief explanation of what it teaches and the commands used to complete it
+This repository contains my notes from completing the **Bandit** wargame on OverTheWire.  
+Each level includes a short explanation of the challenge, what it demonstrates, and the commands used to solve it.
 
+---
 
 ## Level 1
 
 **Description:**  
 The password for the next level is stored in a file named `readme` in the home directory.  
-Retrieve this password and use it to log in to **bandit1** via SSH on port **2220**.  
-For every level, use the password you discover to SSH into the next level and continue the game.
+After retrieving it, use the password to log in to **bandit1** via SSH on port **2220**.  
+You'll repeat this process for every level: find the password, then use it to connect to the next account.
 
 **Task:**  
-List the files in the directory and read the `readme` file.
+List the files in the directory and read the contents of the `readme` file.
 
 **Commands Used:**
 
@@ -40,7 +41,9 @@ The file is named `-`, so it must be accessed using a relative path.
 ./-
 ```
 
-Password: 
-`263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+Password: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
 
 ---
+
+
+
