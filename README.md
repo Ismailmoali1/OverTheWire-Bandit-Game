@@ -17,8 +17,10 @@ List the files in the directory and read the `readme` file.
 
 **Commands Used:**
 
+
 ls
 cat readme
+
 ```bash
 
 Password:
