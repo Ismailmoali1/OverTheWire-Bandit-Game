@@ -20,5 +20,5 @@ List the files in the directory and read the `readme` file.
 ls
 cat readme
 
-**Password:**  
+Password:
 `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
