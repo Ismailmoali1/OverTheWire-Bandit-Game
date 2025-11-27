@@ -1,12 +1,16 @@
 
-# OverTheWire: Bandit — My Notes (Levels 1–15)
+# OverTheWire: Bandit — Notes (Levels 1–15)
 
-These are my personal notes and findings from completing the Bandit wargame.  
-I focused on identifying what each challenge teaches and the exact commands used.
+This repository contains my notes from the OverTheWire Bandit wargame.
+Each level includes a brief explanation of what it teaches and the commands used to complete it
 
----
 
 ## Level 1
+
+**Description:**  
+The password for the next level is stored in a file named `readme` in the home directory.  
+Retrieve this password and use it to log in to **bandit1** via SSH on port **2220**.  
+For every level, use the password you discover to SSH into the next level and continue the game.
 
 **Task:**  
 List the files in the directory and read the `readme` file.
@@ -15,22 +19,6 @@ List the files in the directory and read the `readme` file.
 ```bash
 ls
 cat readme
-Password:
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-Level 2
-Task:
-The file is named -, so it must be accessed using a relative path.
-
-Commands Used:
-
-bash
-Copy code
-./-
-Password:
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
-
-perl
-Copy code
-
-If you want, I can continue Levels 3–15 in the same format—just send the raw text!
+**Password:**  
+`ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
