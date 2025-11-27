@@ -16,15 +16,17 @@ For every level, use the password you discover to SSH into the next level and co
 List the files in the directory and read the `readme` file.
 
 **Commands Used:**
-```bash
+
 ls
 cat readme
+```bash
 
 Password:
 `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
---- 
+---
 
+```
 ## Level 2
 
 **Description:**  
@@ -38,3 +40,4 @@ The file is named `-`, so it must be accessed using a relative path.
 ./-
 Password:
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
