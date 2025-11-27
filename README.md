@@ -17,16 +17,14 @@ List the files in the directory and read the `readme` file.
 
 **Commands Used:**
 
-
+```bash
 ls
 cat readme
-
-```bash
-
-Password:
-`ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
-
 ```
+
+Password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+---
 
 ## Level 2
 
@@ -38,9 +36,11 @@ The file is named `-`, so it must be accessed using a relative path.
 
 **Commands Used:**
 
-./-
-
 ```bash
+./-
+```
 
-Password:
+Password: 
 `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
+
+---
