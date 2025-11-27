@@ -75,7 +75,7 @@ List all files (including hidden ones) and read the hidden file.
 
 ```bash
 ls -al
-cat ..Hidding-From-You
+cat ...Hidding-From-You
 ```
 
 Password: `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
