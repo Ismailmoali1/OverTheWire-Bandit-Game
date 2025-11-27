@@ -45,8 +45,6 @@ cat readme
 
 Password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
-
-
 **What I learned:**  
 How to look inside a directory with `ls` and read a file using `cat`.  
 This level helped me get comfortable finding and viewing basic files in Linux.
@@ -68,8 +66,6 @@ The file is named `-`, so it must be accessed using a relative path.
 ```
 
 Password: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
-
-
 
 **What I learned:**  
 How to open a file with a tricky name, like `-`.  
@@ -93,8 +89,6 @@ cat "spaces in this filename"
 
 Password: `MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx`
 
-
-
 **What I learned:**  
 How to open a file that has spaces in its name.  
 Putting the filename in quotes makes the command treat it as one single name.
@@ -117,8 +111,6 @@ cat ...Hidding-From-You
 ```
 
 Password: `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
-
-
 
 **What I learned:**  
 How to find hidden files using `ls -a`.  
