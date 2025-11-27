@@ -1,6 +1,9 @@
 
 # OverTheWire: Bandit — My Notes & Walkthrough
 
+For a quick reminder of useful commands, see [Command Cheatsheet](extras/cheatsheet-commands.md).
+
+
 This repository contains my personal notes from working through the **Bandit** wargame on [OverTheWire](https://overthewire.org/wargames/bandit/).
 
 I use this repo to:
@@ -44,6 +47,9 @@ cat readme
 ```
 
 Password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+**What I learned:**  
+Basic file listing and reading files with `ls` and `cat`.
 
 ---
 
