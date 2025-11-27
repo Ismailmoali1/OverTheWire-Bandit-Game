@@ -7,6 +7,11 @@ Each level includes a brief explanation of what it teaches and the commands used
 
 ## Level 1
 
+**Description:**  
+The password for the next level is stored in a file named `readme` in the home directory.  
+Retrieve this password and use it to log in to **bandit1** via SSH on port **2220**.  
+For every level, use the password you discover to SSH into the next level and continue the game.
+
 **Task:**  
 List the files in the directory and read the `readme` file.
 
