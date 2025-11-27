@@ -22,3 +22,19 @@ cat readme
 
 Password:  
 `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+
+## Level 2
+
+**Description:**  
+The password for the next level is stored in a file called `-` located in the home directory.
+
+**Task:**  
+Because the file is literally named `-`, it must be accessed using a relative path to avoid it being interpreted as a command option.
+
+**Commands Used:**
+```bash
+./-
+
+Password:  
+`263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
