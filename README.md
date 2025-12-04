@@ -139,3 +139,25 @@ What I learned:
 How to quickly identify readable files using the file command. This helped me understand which files contain actual text and which ones are binary or empty.
 
 ---
+
+## Level 6
+
+**Description:**  
+The password for the next level is stored in a file somewhere in the `inhere` directory, but only one file matches the required size of **1033 bytes**.
+
+**Task:**  
+Search for a regular file with a size of exactly 1033 bytes, then read its contents.
+
+**Commands Used:**
+
+```bash
+find . -type f -size 1033c
+cat <matching-file>
+```
+
+Password: `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
+
+What I learned:
+How to use the find command to locate files based on specific attributes, such as size.
+This helped me understand how powerful find is for searching through directories.
+
