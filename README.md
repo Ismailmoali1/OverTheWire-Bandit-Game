@@ -117,3 +117,25 @@ How to find hidden files using `ls -a`.
 Hidden files start with a dot (`.`), so you need this command to see and open them.
 
 ---
+
+## Level 5
+
+**Description:**  
+The password for the next level is stored in one of the files inside the `inhere` directory, but only one of them is readable. I needed to inspect the file types to figure out which file contained text.
+
+**Task:**  
+Check the type of each file, find the one that is readable, and then view its contents.
+
+**Commands Used:**
+
+```bash
+file ./*
+cat <readable-file>
+```
+
+Password: `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
+
+What I learned:
+How to quickly identify readable files using the file command. This helped me understand which files contain actual text and which ones are binary or empty.
+
+---
